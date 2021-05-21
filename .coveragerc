@@ -1,0 +1,6 @@
+[report]
+include =
+    src/jinshinjyutsu/*
+omit =
+    */test*
+    */upgrades/*
