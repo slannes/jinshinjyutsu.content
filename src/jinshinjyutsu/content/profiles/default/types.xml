@@ -2,4 +2,6 @@
 <object name="portal_types" meta_type="Plone Types Tool">
   <object name="Skills_section" meta_type="Dexterity FTI" />
   <object name="Skill" meta_type="Dexterity FTI" />
+  <object name="Activities_section" meta_type="Dexterity FTI" />
+  <object name="Activity" meta_type="Dexterity FTI" />
 </object>
